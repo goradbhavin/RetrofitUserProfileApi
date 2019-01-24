@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyUserProfileApi</string>
+
+    <string name="err_email_required">Email is required</string>
+    <string name="err_valid_email">Enter a valid email</string>
+    <string name="err_password_required">Password required</string>
+    <string name="err_password_length">Password should be atleast 6 character long</string>
+    <string name="err_name_required">Name required</string>
+    <string name="err_number_required">Number required</string>
+    <string name="err_device_not_connected">please connect your device with local server.</string>
+    <string name="err_start_local_server">please start your local server.</string>
+    <string name="err_net_connection">please check your internet connection.</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_pass">Password</string>
+    <string name="hint_current_pass">Current Password</string>
+    <string name="hint_new_pass">New Password</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_mobile">Mobile</string>
+    <string name="hint_update_profile">Update Profile</string>
+    <string name="hint_change_pass">Change Password</string>
+    <string name="lbl_sign_up">SignUp</string>
+    <string name="lbl_login">Login</string>
+    <string name="lbl_logout">LogOut</string>
+    <string name="lbl_account_delete">Delete Account</string>
+    <string name="lbl_create_at">Create New Account?</string>
+    <string name="hint_save">Save</string>
+</resources>
